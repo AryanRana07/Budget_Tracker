@@ -11,3 +11,4 @@ print(f"Exense Category: {expense1.category}")
 print(f"Expense Amount: ${expense1.amount}")
 print(f"Budget for {expense1.category}: ${budget_manager.budget.get(expense1.category,'N/A')}")
   
+  
